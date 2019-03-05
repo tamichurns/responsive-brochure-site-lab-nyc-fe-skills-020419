@@ -130,19 +130,8 @@ h1 {
 @media only screen and (max-width: 768px) {
   
 .nav_links a {
-  display: flex;
-  flex-wrap: wrap;
   margin: 8px;
-  color: #333333;
-  text-decoration: none;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 900;
-  font-size: 12px;
-  letter-spacing: .1em;
-  text-transform: uppercase;
-  border-bottom: 1px solid transparent;
-  padding-bottom: 4px;
-  transition: 0.2s ease-in-out;
+  font-size: 11px;
 }
   
   h1{
