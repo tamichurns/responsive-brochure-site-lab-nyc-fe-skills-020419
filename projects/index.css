@@ -144,6 +144,10 @@ h1 {
   padding-bottom: 4px;
   transition: 0.2s ease-in-out;
 }
+
+.logo {
+  width: 24px;
+}
   
   h1{
     font-size: 32px;
